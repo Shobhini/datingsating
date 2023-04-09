@@ -1,0 +1,100 @@
+h2{
+    margin:-16px 10px;
+    text-align: center ;
+    margin-left: 58px;
+    color: rgb(14, 8, 8);
+    font-size: 8vw;
+}
+#body{
+    /* background-color: rgb(241, 134, 184); */
+    background-image: url("https://i.kym-cdn.com/entries/icons/original/000/017/323/OnlineDating1.jpg")
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    font-weight:1000;
+    padding:12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-size:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(243, 233, 233);
+    margin-left: -11px;
+    height: 1px;
+}
+.navbar{
+    height:75px;
+    width:1500px;
+    margin-left: -29px;
+    margin-top: -22px;
+    
+
+}
+
+.button{
+    margin: 142px 676px;
+    height: 55px;
+    width: 217px;
+    border-radius: 40px;
+   
+    background: #680849;
+  background: radial-gradient(circle at 30% 107%, #f3df05 0%, #ccad13 5%, #aa352a 45%,#d6249f 60%,#042ca1 90%);
+    color:white;
+    font-weight:bolder;
+    font-size:x-large;
+}
+
+.button1{
+    margin-bottom: 10px;
+    height: 55px;
+    width: 217px;
+    border-radius: 40px;
+   
+    background-color: rgb(254, 249, 249);
+    color:black;
+    font-weight:bolder;
+    font-size:x-large;
+    
+}
+
+.div{
+    padding-left: 781px;
+}
+
+.right{
+    float: right;
+    margin-right: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: -29px;
+    
+    
+}
+
+.navbar2{
+    background-color:rgb(8, 6, 13);
+    height:43px;
+    width:1500px;
+    margin-top: 30px;
+}
+
+.navbar2 li{
+    float: left;
+    list-style: none;
+    font-weight: bold;
+    padding:12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:larger;
+    color:white;
+    margin-left: -5px;
+    height:10px;
+}
+h1{
+    text-align: center;
+    font-weight:bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xxx-large;
+
+}
+a:hover{
+    color: blue;
+}
